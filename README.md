@@ -6,7 +6,7 @@ YouMoney is a web-based financial tracking application. It allows users to add, 
 
 ## Developed By
 
-This project was developed by Kazybek as a personal project to demonstrate full-stack web development skills.
+This project was developed by Kassiyenov Kazybek as a personal/pet project to demonstrate DevOps skills.
 
 ## License
 
