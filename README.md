@@ -35,7 +35,7 @@ YouMoney-DevOps/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-repo>/youmoney-devops.git
+   git clone https://github.com/netwarrior09/youmoney-devops.git
    ```
 
 2. Navigate to the application directory:
